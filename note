@@ -1,0 +1,4 @@
+把odd even抓出來
+even原來的位置在哪裡
+odd由小~大重新排列
+結合成新的Array = result
